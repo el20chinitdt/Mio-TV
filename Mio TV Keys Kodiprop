@@ -1,0 +1,9 @@
+Keys Mio TV 
+
+TNT Sports
+MPD = https://supercanal-cdn2.tbxdrm.com/tntsports/manifest.mpd
+MultiKeys = 32a676e28a33590b94a6e498ad83b486:e74d3a490e83035ba4fb62d90f78d30a:6fc46152f5f95fbd9b5cd86ca70ec8cc:9215c3144ef88413f858196d9b79198f:20977c2237e3511793cb731c41f513ad:e6fa8f27b510bef16d0c6c0c43eb112e
+
+ESPN Premium
+MPD = https://supercanal-cdn1.tbxdrm.com/espnpremium/manifest.mpd
+MultiKeys = 94c9e4d22b7f59008100540395ab6071:c85679667e247d4cf9ae07cdd5b64655:80dbb7714eb45b3588d3c3504fc54407:8aaf77ed374e01283c5f9eed5fc0b0e5:d69ab8fc784f513686a121b69f085b5c:945cfe61e4c2c7bc490d6c753edca557
